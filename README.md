@@ -17,7 +17,7 @@
 
 - 📫 Consultas **edwinluissacrecinos@gmail.com**
 
-- 📄 Experiencia laboral [www.linkedin.com/in/edwinluiscarlossacrecinos](www.linkedin.com/in/edwinluiscarlossacrecinos)
+- 📄 Experiencia laboral [https://www.linkedin.com/in/edwinluiscarlossacrecinos](https://www.linkedin.com/in/edwinluiscarlossacrecinos)
 
 - ⚡ Fun fact: **Anime, Pelis, Series y Videojueogs (Tomb Raider - Bayonetta - Pokémon)**
 
