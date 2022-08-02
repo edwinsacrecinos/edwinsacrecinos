@@ -13,7 +13,7 @@
 
 - 📝 Artículos académicos [https://es.slideshare.net/EdwinLuisCarlosSacRe](https://es.slideshare.net/EdwinLuisCarlosSacRe)
 
-- 💬 Plataformas de desarrollo **Visual Studio Code, Visual Studio, SQL Server/MySQL, Anaconda, Unity y Figma**
+- 💬 Plataformas de desarrollo **Visual Studio Code, Visual Studio, SQL Server/MySQL, Anaconda, Unity, Figma y WordPress**
 
 - 📫 Consultas **edwinluissacrecinos@gmail.com**
 
