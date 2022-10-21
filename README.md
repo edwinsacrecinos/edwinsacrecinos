@@ -5,9 +5,11 @@
 <img align="center" src="https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP.jpg" height="150" />
 </p>
 
-- 🌱 Tecnologías que manejo: **HTML, CSS, JavaScript, Bootstrap, C#, SQL y Python**
+- 🌱 Tecnologías que manejo: **HTML, CSS, JavaScript, Bootstrap, C#, ASP, SQL y Python**
 
-- 🔭 He trabajado en el **Ecosistema Web de Programa Kutik**
+- 🔭 He trabajado en el **Ecosistema Web de Programa Kutik** y **Asesorías para China Taiwán/MINECO**
+
+- 👨‍💻 Trabajo actual: **Desarrollador web** en Gisystems.
 
 - 👨‍💻 Mis proyectos en: [www.enconstruccion.com](www.enconstruccion.com)
 
