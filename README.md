@@ -152,7 +152,7 @@ Me enfoco en construir soluciones que integran **desarrollo web, bases de datos,
 ## 📌 Proyectos y enlaces
 
 - 👨‍💻 Mis proyectos: [www.enconstruccion.com](https://www.enconstruccion.com)
-- 📝 Artículos académicos: [SlideShare - Edwin Luis Carlos Sac Recinos](https://es.slideshare.net/EdwinLuisCarlosSacRe)
+- 📝 Artículos académicos: [SlideShare - Edwin Luis Carlos Sac Recinos](https://es.slideshare.net/EdwinLuisCarlosSacRe?tab=documents)
 - 📄 Experiencia laboral: [LinkedIn](https://www.linkedin.com/in/edwinluiscarlossacrecinos)
 - 📫 Consultas: **edwinluissacrecinos@gmail.com**
 
