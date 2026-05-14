@@ -178,8 +178,12 @@ Me enfoco en construir soluciones que integran **desarrollo web, bases de datos,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elcsr94&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcsr94&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=edwinsacrecinos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats de Edwin Sac Recinos" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinsacrecinos&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados por Edwin Sac Recinos" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edwinsacrecinos&theme=tokyonight&hide_border=true" alt="Racha de contribuciones de Edwin Sac Recinos" />
 </p>
 
 ---
